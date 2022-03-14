@@ -1,0 +1,16 @@
+*{
+	color: #fff;
+}
+.bg{
+	background: url('../img/bg/bg_log.png') no-repeat;
+	 width: 100%;
+	 height: 100vh;
+}
+.form-conatiner{
+	border: 0px solid #fff;
+	padding: 30px 25px;
+	margin-top: 20vh;
+	.webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+	.moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+	box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
